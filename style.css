@@ -1,0 +1,86 @@
+/* STYLE OF IMAGES */
+/* img{
+    width: 250px;
+    height: 250px;
+} */
+
+/* ALINING IMAGES */
+/* img{
+    margin-left: 200px;
+} */
+/* img{
+    float: right;
+} */
+
+/* CENTERING IMAGES */
+/* img{
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin: auto;
+} */
+
+/* BACKGROUND IMAGES */
+/* body{
+    background-image: url(./images/bari\ bike.webp);
+} */
+
+/* BACKGROUND IMAGE REPEAT */
+/* body{
+    background-image: url(./images/bari\ bike.webp);
+    background-attachment: fixed;
+
+} */
+
+/* BACKGROUND POSITION */
+/* body{
+    background-image: url(./images/skuuti.jpg);
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+} */
+
+/* BACKGROUND SHORTAND */
+/* body{
+    background: #ffff url(./images/skuuti.jpg)no-repeat top right
+} */
+
+/* GRAGIENTS */
+/* linear gradient */
+/* body{
+    background-image: linear-gradient(red, yellow);
+    background-repeat: no-repeat;
+    height: 100vh;
+} */
+/* #gradient-container{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    background-image: linear-gradient(top right yellow, red, green);
+     border: 2px solid red;
+     margin: auto;
+} */
+
+/* RADICAL GRADIENT */
+/* #gradient-container{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    background-image: radial-gradient(red, yellow,green);
+     margin: auto;
+     
+} */
+/* CONICAL GRADIENT */
+/* #gradient-container{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-image: radial-gradient(red, yellow,green);
+     margin: auto;
+     
+} */
+
+
+
+
